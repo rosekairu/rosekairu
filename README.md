@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&width=435&lines=Hi+there+ )](https://git.io/typing-svg)
 
-<!--
+
 **rosekairu/rosekairu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: Her/She/Hers...
 - ⚡ Fun fact: ...
--->
+
